@@ -15,33 +15,22 @@
 <!-- About Me Section -->
 <h3>👨‍💻 About Me</h3>
 
-Hi! I'm **Samiul Hasan Sojib**, a passionate **Future Full Stack Web Developer** and **Lead Generation Specialist** from Bangladesh 🇧🇩.
+I am a **Web Developer** and **Lead Generation Specialist** who enjoys building responsive and user-friendly websites. I am passionate about learning new technologies and improving my development skills. I also have experience in lead generation and data-related work.
 
-* 🎓 Building modern, scalable, and responsive web applications.
-* ⚛️ Working with **React, Next.js, TypeScript, JavaScript & Tailwind CSS**.
-* 🚀 Learning & implementation focus: **Node.js, MongoDB, Mongoose & BetterAuth**.
-* 🤖 Deeply interested in **AI Mindset & Engineering, AI-Assisted Coding, and AI Workflows**.
-* 🛠️ Continuously building projects to strengthen my Full Stack & AI Skills.
-* 💬 Open to collaboration, open-source projects, and learning opportunities.
+- 🌱 I’m currently learning **React & TypeScript**
+- 💬 Ask me about **HTML | CSS | JavaScript | TypeScript | React**
+- 📫 How to reach me **samiulhasansojib069@gmail.com**
 
 <hr />
 
 <!-- Connect With Me Section -->
 <h3>📫 Connect With Me</h3>
-
 <p align="left">
-  <a href="mailto:samiulhasansojib069@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/sojib-fullstack-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/sojib-fullstack-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://fb.com/sojib.fullstack.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+  <a href="https://twitter.com/sojib_fullstack" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sojib-fullstack-dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://fb.com/sojib.fullstack.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+  <a href="https://instagram.com/sojib.fullstack.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@Coding_With_Sojib" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
 </p>
 
 <hr />
@@ -73,12 +62,10 @@ Hi! I'm **Samiul Hasan Sojib**, a passionate **Future Full Stack Web Developer**
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="45" height="45"/>
 </p>
 
-<h4>Tools & AI Development</h4>
+<h4>Tools & Development</h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/> &nbsp;
-  <img src="https://img.shields.io/badge/AI_Mindset_%26_Engineering-6C5CE7?style=for-the-badge&logo=openai&logoColor=white" alt="AI Mindset" /> &nbsp;
-  <img src="https://img.shields.io/badge/AI_Assisted_Coding-00F5D4?style=for-the-badge&logo=githubcopilot&logoColor=black" alt="AI Assisted Coding" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
 </p>
 
 <hr />
@@ -108,7 +95,4 @@ HTML -> CSS -> JavaScript
              ↓
     MongoDB + Mongoose
              ↓
- 🤖 AI Engineering & Coding 🚀
-             ↓
-  AI-Driven Full Stack Developer 🎯
-
+  Full Stack Web Developer 🎯
