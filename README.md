@@ -6,11 +6,11 @@
 <h1 align="center">Hi 👋, I'm Samiul Hasan Sojib</h1>
 
 
-<h3 align="center">
+<h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F5D4&center=true&vcenter=true&width=700&lines=Aspiring+AI-Driven+Full+Stack+Web+Developer;Lead+Generation+Specialist;JavaScript+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=6C5CE7&center=true&vcenter=true&width=750&lines=Aspiring+AI-Driven+Full+Stack+Web+Developer;Lead+Generation+Specialist;JavaScript+Enthusiast" alt="Typing SVG" />
   </a>
-</h3>
+</h2>
 
 
 <h3 align="left">About Me:</h3>
