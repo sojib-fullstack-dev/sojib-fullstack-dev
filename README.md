@@ -3,6 +3,11 @@
   <img src="./github-banner.png" alt="Samiul Hasan Sojib Banner" width="100%" />
 </p>
 
+<!-- Animated Capsule Header with Name & Subtitle -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Samiul%20Hasan%20Sojib&fontSize=42&fontColor=fff&desc=Aspiring%20AI-Driven%20Full%20Stack%20Web%20Developer&descSize=18&descAlignY=68&animation=fadeIn" alt="Header Animation" />
+</p>
+
 <!-- Animated Typing Title -->
 <h2 align="center">
   <a href="https://git.io/typing-svg">
