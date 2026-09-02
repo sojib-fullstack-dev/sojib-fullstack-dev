@@ -95,4 +95,6 @@ HTML -> CSS -> JavaScript
              ↓
     MongoDB + Mongoose
              ↓
-  Full Stack Web Developer 🎯
+ 🤖 AI Engineering & Coding 🚀
+             ↓
+  AI-Driven Full Stack Developer 🎯
