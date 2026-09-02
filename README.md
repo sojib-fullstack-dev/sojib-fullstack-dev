@@ -70,8 +70,9 @@ I am a **Web Developer** and **Lead Generation Specialist** who enjoys building 
 <hr />
 
 <!-- Streak Stats -->
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="tools" />
+<h3>📊 GITHUB STATISTICS & ANALYSIS:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sojib-fullstack-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <hr />
