@@ -91,53 +91,64 @@ I am a **Web Developer** and **Lead Generation Specialist** who enjoys building 
 
 ```text
 HTML -> CSS -> JavaScript
-             ↓
-        TypeScript
-             ↓
-       Tailwind CSS
-             ↓
-           React
-             ↓
-          Next.js
-             ↓
-     Node.js + BetterAuth
-             ↓
-    MongoDB + Mongoose
-             ↓
- 🤖 AI Engineering & Coding 🚀
-             ↓
-  AI-Driven Full Stack Developer 🎯
+             ↓
+        TypeScript
+             ↓
+       Tailwind CSS
+             ↓
+           React
+             ↓
+          Next.js
+             ↓
+     Node.js + BetterAuth
+             ↓
+    MongoDB + Mongoose
+             ↓
+ 🤖 AI Engineering & Coding 🚀
+             ↓
+ AI-Driven Full Stack Developer 🎯
 
 
 <hr />
 
-<!-- Personal Philosophy & Drive Section -->
-<h3>⚡ Development Philosophy</h3>
 
-<p>I believe that effective software development goes beyond writing code—it's about <b>solving real-world problems</b> and <b>building seamless user experiences</b>.</p>
 
-<ul>
-  <li>🎯 <b>Goal-Driven:</b> Focused on mastering full-stack architecture and AI-driven development.</li>
-  <li>💡 <b>Core Mindset:</b> I don't just learn frameworks; I strive to understand core Web Architecture to craft scalable products from scratch.</li>
-  <li>🚀 <b>Continuous Evolution:</b> Committed to daily coding, refining best practices, and pushing robust production code.</li>
-</ul>
+<!-- A Little More About Me Section -->
+<h3>⚡ A Little More About Me</h3>
+
+<p>I believe the most effective way to master software engineering is to <b>build production-ready products</b>.</p>
+
+<p>I am currently focused on strengthening core full-stack fundamentals, building real-world applications, mastering modern backend architectures, and evolving into a proficient AI-driven web developer.</p>
+
+<p>My philosophy is clear — <i>I don't just learn frameworks; I strive to master underlying Web Architecture to engineer scalable solutions from scratch.</i></p>
 
 <br />
 
-<!-- Modern Quote Blockquote -->
-<blockquote>
-  <i>"First, solve the problem. Then, write the code."</i> — <b>John Johnson</b>
-</blockquote>
+<!-- Dark Quote Card ( স্ক্রিনশটের মতো ব্ল্যাক বক্স ) -->
+<div align="center">
+  <table width="100%" style="border-collapse: collapse;">
+    <tr>
+      <td align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 25px;">
+        <p style="color: #58a6ff; font-size: 16px; font-style: italic; margin: 0;">
+          "First, solve the problem. Then, write the code."
+        </p>
+        <p style="color: #f0883e; font-size: 14px; font-weight: bold; margin-top: 10px; margin-bottom: 0;">
+          — John Johnson
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br />
 
 <!-- Footer & Profile Counter -->
 <p align="center">
-  🚀 <b>Learn</b> &nbsp;➔&nbsp; 💻 <b>Build</b> &nbsp;➔&nbsp; ⚡ <b>Optimize</b> &nbsp;➔&nbsp; 🔄 <b>Repeat</b>
+  🚀 <b>Learning</b> &nbsp;➔&nbsp; 💻 <b>Building</b> &nbsp;➔&nbsp; ⚡ <b>Improving</b> &nbsp;➔&nbsp; 🔄 <b>Repeating</b>
 </p>
 
 <p align="center">
-  <sub><i>Thank you for visiting my profile! Feel free to reach out for collaborations.</i></sub>
+  <sub>⭐ Thanks for visiting my profile!</sub>
 </p>
 
 <p align="center">
