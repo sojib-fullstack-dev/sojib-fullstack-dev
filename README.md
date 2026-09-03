@@ -124,21 +124,10 @@ HTML -> CSS -> JavaScript
 
 <br />
 
-<!-- Dark Quote Card ( স্ক্রিনশটের মতো ব্ল্যাক বক্স ) -->
-<div align="center">
-  <table width="100%" style="border-collapse: collapse;">
-    <tr>
-      <td align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 25px;">
-        <p style="color: #58a6ff; font-size: 16px; font-style: italic; margin: 0;">
-          "First, solve the problem. Then, write the code."
-        </p>
-        <p style="color: #f0883e; font-size: 14px; font-weight: bold; margin-top: 10px; margin-bottom: 0;">
-          — John Johnson
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- High-Quality Dark Quote Card Image (উনার চেয়ে উন্নত কালার ও স্টাইল) -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Quote Card" width="80%" />
+</p>
 
 <br />
 
