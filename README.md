@@ -3,10 +3,22 @@
   <img src="./github-banner.png" alt="Samiul Hasan Sojib Banner" width="100%" />
 </p>
 
-<!-- Clean & Fixed Animated Typing Title -->
+<!-- Greeting Line -->
+<h3>👋 Hi, I'm Samiul Hasan Sojib</h3>
+
+<!-- Animated Typing Title -->
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=6C5CE7&center=true&vcenter=true&width=750&lines=Aspiring+AI-Driven+Full+Stack+Web+Developer;Lead+Generation+Specialist;Technology+and+JavaScript+Enthusiast" alt="Typing SVG" />
 </h2>
+
+<!-- Professional Tagline -->
+<p align="center">
+  🚀 <b>Crafting Modern Web Apps</b> &nbsp;•&nbsp; 
+  ⚡ <b>Architecting Full-Stack Systems</b> &nbsp;•&nbsp; 
+  🎯 <b>Engineering Scalable Solutions</b>
+</p>
+
+<hr />
 
 <br />
 
