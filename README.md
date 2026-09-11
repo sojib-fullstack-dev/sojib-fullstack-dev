@@ -82,23 +82,12 @@ I am a **Web Developer** and **Lead Generation Specialist** who enjoys building 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sojib-fullstack-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-&nbsp;
-<img src="https://streak-stats.demolab.com?user=sojib-fullstack-dev&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojib-fullstack-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sojib-fullstack-dev&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophy" width="100%" />
+<img src="https://streak-stats.demolab.com?user=sojib-fullstack-dev&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 </div>
 
-<hr />
 
-<hr />
+
 
 <hr />
   <!-- Contribution Snake Animation -->
