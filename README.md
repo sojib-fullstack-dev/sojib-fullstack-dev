@@ -79,10 +79,20 @@ I am a **Web Developer** and **Lead Generation Specialist** who enjoys building 
 <hr />
 
 <!-- GITHUB STATISTICS & ANALYSIS -->
+<h3 align="center">📊 GITHUB STATISTICS & ANALYSIS</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile_Status-Active-brightgreen?style=flat-square&logo=github" alt="Profile Status" />
+  <img src="https://img.shields.io/badge/Code_Quality-Clean-blue?style=flat-square&logo=visualstudiocode" alt="Code Quality" />
 </p>
 
 <hr />
