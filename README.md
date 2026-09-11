@@ -80,7 +80,7 @@ I am a **Web Developer** and **Lead Generation Specialist** who enjoys building 
 
 <!-- GITHUB STATISTICS & ANALYSIS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojib-fullstack-dev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojib-fullstack-dev&layout=compact&theme=dark&langs_count=4&hide_border=true" alt="Top Languages" />
 </p>
 
 <hr />
