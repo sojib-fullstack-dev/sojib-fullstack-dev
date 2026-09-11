@@ -78,27 +78,25 @@ I am a **Web Developer** and **Lead Generation Specialist** who enjoys building 
 
 <hr />
 <!-- GITHUB STATISTICS & ANALYSIS -->
-<!-- GITHUB STATISTICS & ANALYSIS -->
 <h3>📊 GitHub Statistics & Analysis</h3>
 
 <div align="center">
 
-<!-- Stats Card & Streak - পাশাপাশি -->
-<img src="https://github-readme-stats.vercel.app/api?username=sojib-fullstack-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=sojib-fullstack-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sojib-fullstack-dev&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=sojib-fullstack-dev&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats" />
 
 <br/><br/>
 
-<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojib-fullstack-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 
 <br/><br/>
 
-<!-- Trophy -->
 <img src="https://github-profile-trophy.vercel.app/?username=sojib-fullstack-dev&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophy" width="100%" />
 
 </div>
+
+<hr />
 
 <hr />
 
