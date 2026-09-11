@@ -79,16 +79,6 @@ I am a **Web Developer** and **Lead Generation Specialist** who enjoys building 
 <hr />
 
 <!-- GITHUB STATISTICS & ANALYSIS -->
-<h3>📊 GITHUB STATISTICS & ANALYSIS:</h3>
-<p align="center">
-  <img src="https://vercel.app" alt="Sojib GitHub Stats" />
-</p>
-
-<!-- TOP LANGUAGES -->
-<h3>💻 TOP LANGUAGES:</h3>
-<p align="center">
-  <img src="https://vercel.app" alt="Sojib Top Langs" />
-</p>
 
 
 <hr />
