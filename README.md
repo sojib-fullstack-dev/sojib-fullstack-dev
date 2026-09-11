@@ -77,23 +77,30 @@ I am a **Web Developer** and **Lead Generation Specialist** who enjoys building 
 </p>
 
 <hr />
-
 <!-- GITHUB STATISTICS & ANALYSIS -->
-<h3 align="center">📊 GITHUB STATISTICS & ANALYSIS</h3>
+<!-- GITHUB STATISTICS & ANALYSIS -->
+<h3>📊 GitHub Statistics & Analysis</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile_Status-Active-brightgreen?style=flat-square&logo=github" alt="Profile Status" />
-  <img src="https://img.shields.io/badge/Code_Quality-Clean-blue?style=flat-square&logo=visualstudiocode" alt="Code Quality" />
-</p>
+<!-- Stats Card & Streak - পাশাপাশি -->
+<img src="https://github-readme-stats.vercel.app/api?username=sojib-fullstack-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sojib-fullstack-dev&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats" />
+
+<br/><br/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojib-fullstack-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=sojib-fullstack-dev&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophy" width="100%" />
+
+</div>
+
+<hr />
 
 <hr />
   <!-- Contribution Snake Animation -->
