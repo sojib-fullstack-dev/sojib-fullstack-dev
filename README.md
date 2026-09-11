@@ -79,10 +79,11 @@ I am a **Web Developer** and **Lead Generation Specialist** who enjoys building 
 <hr />
 
 <!-- Streak Stats -->
-<h3>📊 GITHUB STATISTICS & ANALYSIS:</h3>
+<h3>🔥 GITHUB STREAK STATS:</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/chat?username=sojib-fullstack-dev&theme=tokyonight" alt="Sojib GitHub Summary" />
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
 </p>
+
 
   <!-- Contribution Snake Animation -->
 <picture>
