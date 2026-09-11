@@ -78,13 +78,20 @@ I am a **Web Developer** and **Lead Generation Specialist** who enjoys building 
 
 <hr />
 
-<!-- Streak Stats -->
-<h3>🔥 GITHUB STREAK STATS:</h3>
+<!-- GITHUB STATISTICS & ANALYSIS -->
+<h3>📊 GITHUB STATISTICS & ANALYSIS:</h3>
 <p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
+  <img src="https://vercel.app" alt="Sojib GitHub Stats" />
+</p>
+
+<!-- TOP LANGUAGES -->
+<h3>💻 TOP LANGUAGES:</h3>
+<p align="center">
+  <img src="https://vercel.app" alt="Sojib Top Langs" />
 </p>
 
 
+<hr />
   <!-- Contribution Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sojib-fullstack-dev/sojib-fullstack-dev/output/github-contribution-grid-snake-dark.svg" />
