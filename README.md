@@ -79,7 +79,9 @@ I am a **Web Developer** and **Lead Generation Specialist** who enjoys building 
 <hr />
 
 <!-- GITHUB STATISTICS & ANALYSIS -->
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojib-fullstack-dev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 <hr />
   <!-- Contribution Snake Animation -->
