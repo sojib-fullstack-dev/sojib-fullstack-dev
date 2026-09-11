@@ -81,7 +81,7 @@ I am a **Web Developer** and **Lead Generation Specialist** who enjoys building 
 <!-- Streak Stats -->
 <h3>📊 GITHUB STATISTICS & ANALYSIS:</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sojib-fullstack-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sojib-fullstack-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
   <!-- Contribution Snake Animation -->
