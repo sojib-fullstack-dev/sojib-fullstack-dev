@@ -27,7 +27,7 @@
 I am a **Web Developer** and **Lead Generation Specialist** who enjoys building responsive and user-friendly websites. I am passionate about learning new technologies and improving my development skills. I also have experience in lead generation and data-related work.
 
 - 🌱 I’m currently learning **React & TypeScript**
-- 💬 Ask me about **HTML | CSS | JavaScript | TypeScript | React**
+- 💬 Ask me about **HTML | CSS | JavaScript | TypeScript | React | Next**
 - 📫 How to reach me **samiulhasansojib069@gmail.com**
 
 <hr />
