@@ -8,7 +8,7 @@
 
 <!-- Animated Typing Title -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=6C5CE7&center=true&vcenter=true&width=750&lines=Full+Stack+Web+Developer;Lead+Generation+Specialist;Technology+and+JavaScript+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=6C5CE7&center=true&vcenter=true&width=750&lines=Full+Stack+Web+Developer+(MERN);Lead+Generation+Specialist;Technology+and+JavaScript+Enthusiast" alt="Typing SVG" />
 </h2>
 
 <!-- Professional Tagline -->
