@@ -103,24 +103,33 @@ I am a **Web Developer** and **Lead Generation Specialist** who enjoys building 
 <h3>📚 Learning Journey</h3>
 
 ```text
-HTML -> CSS -> JavaScript
-             ↓
-        TypeScript
-             ↓
-       Tailwind CSS
-             ↓
-           React
-             ↓
-          Next.js
-             ↓
-     Node.js + BetterAuth
-             ↓
-    MongoDB + Mongoose
-             ↓
- 🤖 AI Engineering & Coding 🚀
-             ↓
- AI-Driven Full Stack Developer 🎯
-
+HTML5 → CSS3 → JavaScript (ES6+)
+                    ↓
+             TypeScript + OOP
+                    ↓
+            Tailwind CSS / DaisyUI
+                    ↓
+                React.js 
+                    ↓
+                 Next.js
+                    ↓
+         Node.js + Express.js
+                    ↓
+        MongoDB + Mongoose / ODM
+                    ↓
+      BetterAuth + Role Based Access Control
+                    ↓
+         Hero UI + ShadCN
+                    ↓
+      Stripe + SSLCommerz + Testing
+                    ↓
+   DOM vs BOM + AI Mindset Development
+                    ↓
+      AI Integration + AI Assisted Coding
+                    ↓
+      🤖 AI Engineering & Coding 🚀
+                    ↓
+   AI-Driven Full Stack Developer 🎯
 ```
 <hr />
 
